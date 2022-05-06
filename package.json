@@ -1,0 +1,12 @@
+{
+  "name": "biome3d-bots",
+  "version": "1.0.0",
+  "description": "Biome 3D Bots",
+  "main": "src/index.js",
+  "author": "Rivet",
+  "license": "MIT",
+  "dependencies": {
+    "binary": "https://github.com/Rivet-archived/Binary",
+    "ws": "^8.6.0"
+  }
+}
