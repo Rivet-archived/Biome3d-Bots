@@ -30,3 +30,6 @@ node src/index.js
 Rivet
 
 Discord: Rivet#0001
+
+## License
+Licensed under the [GNU Affero General Public License v3.0](https://github.com/Rivet-archived/Biome3d-Bots/blob/main/LICENSE)
